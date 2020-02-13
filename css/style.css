@@ -3,7 +3,7 @@
 body {
     overflow-x: hidden;
     font-family: 'Lato', sans-serif;
-    color: grey;
+    color: #CBBEF0;
 }
 
 .offset:before{
@@ -39,7 +39,7 @@ body {
 /*--- Landing Page ---*/
 
 .home-inner {
-    background-image: url(../img/spongefluffy.jpg); 
+    background-image: url(../img/spongefluffy.jpg);
 }
 .caption{
     width: 100%;
